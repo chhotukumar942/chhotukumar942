@@ -1,10 +1,10 @@
 ## Hi I am👋 Chhotu Kumar              
-[![](https://visitcount.itsvg.in/api?id=chhotukumar942&icon=4&color=3)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=chhotukumar942&icon=4&color=3)](https://visitcount.itsvg.in)    ***A passionate frontend developer from Bihar, India***
+                      
 - 🔭 I’m currently working on **Full Stack Developer**
-- 🌱 I’m currently learning **Three Js**
+- 🌱 I’m currently learning **DSA problem solving**
 - 👯 I’m looking to collaborate on **Frontend and Backend Projects**                                                                                    
-- 💬 Ask me about **Technology & Personal Development**                                                                                                   
+- 💬 Ask me about **Technology & Personal Development**                                                                                                  
 - 📫 How to reach me: **chhotumsd@gmail.com** 
 - 😄 Pronouns: **He/Him**
 
